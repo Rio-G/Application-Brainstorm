@@ -1,6 +1,6 @@
 # Project Proposal 1: Dinosor Game (inspierd)
 Description of the project...
-Group Members:Rio Geroux
+Group Members: Rio Geroux, Max Sehroder
 
 ## GUI Mockup #1 (Start screen)
 ![Start Screen]()
