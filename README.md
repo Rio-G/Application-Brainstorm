@@ -29,4 +29,4 @@ Group Members:
 ![End Screen](https://user-images.githubusercontent.com/102073178/163236540-e799c0b0-aa1e-4522-8867-716c5c426207.JPG)
 
 ## Class Diagram #1
-![Class Diagram]()
+![Class Diagram](https://user-images.githubusercontent.com/102073178/163242947-a5715686-8e06-425c-b1c5-76c683ac9ab2.png)
