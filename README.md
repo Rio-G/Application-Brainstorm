@@ -12,7 +12,7 @@ Group Members: Rio Geroux, Max Sehroder
 ![End Screen](https://user-images.githubusercontent.com/102073178/163266171-ccca153e-ecee-4e7d-9e19-eafd8af16833.jpg)
 
 ## Class Diagram #1
-![Class Diagram]()
+![Class Diagram](https://user-images.githubusercontent.com/102073178/163284905-e2e64fd8-001a-44c0-8744-e9c6652db403.png)
 
 # Project Proposal 2: Tetris (copy)
 Description of the project...
