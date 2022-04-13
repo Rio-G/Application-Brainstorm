@@ -22,10 +22,11 @@ Group Members:
 ![Start Screen](https://user-images.githubusercontent.com/102073178/163071711-ed1e30af-69d1-474f-814e-e48a3100495b.JPG)
 
 ## GUI Mockup #2 (Gameplay)
-![GamePlay Screen]()
+![GamePlay Screen](https://user-images.githubusercontent.com/102073178/163236798-3e7e6ec0-d8a3-4c84-b965-c34c4b6d6975.JPG)
+
 
 ## GUI Mockup #3 (End of game)
-![End Screen]()
+![End Screen](https://user-images.githubusercontent.com/102073178/163236540-e799c0b0-aa1e-4522-8867-716c5c426207.JPG)
 
 ## Class Diagram #1
 ![Class Diagram]()
