@@ -1,4 +1,4 @@
-# Project Proposal 1: Dinosor Game (inspierd)
+# Project Proposal 1: Dinosor Game (Name: Mercenary Bolt)
 Description of the project...
 Group Members: Rio Geroux, Max Sehroder
 
