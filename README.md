@@ -15,7 +15,7 @@ Group Members: Rio Geroux, Max Sehroder
 ![Class Diagram](https://user-images.githubusercontent.com/102073178/163284905-e2e64fd8-001a-44c0-8744-e9c6652db403.png)
 
 # Project Proposal 2: Tetris (copy)
-Description of the project...
+Description of the project: A one player game, where blocks fall on top of each other and stack up. The goal of the game is the get the highest score. You will use your key boared to play this game (Use the arrow keys).
 Group Members:Rio Geroux
 
 ## GUI Mockup #1 (Start screen)
