@@ -1,5 +1,5 @@
 # Project Proposal 1: Dinosor Game (Name: Mercenary Bolt)
-Description of the project...
+Description of the project: A endless runner game where you have to avoid the opsticals while they begian to come faster at you. To win the game you will have to get the highest score posible.
 Group Members: Rio Geroux, Max Sehroder
 
 ## GUI Mockup #1 (Start screen)
