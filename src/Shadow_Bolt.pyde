@@ -1,2 +1,5 @@
-size(1440,800);
-line(0, 600, 1439, 600);
+size(700,525);
+mount = loadImage("Shadow Mountain.png")
+image(mount, 0, 0)
+bolter = loadImage("Shadow Bolt ninja.gif") 
+image(bolter, -70, 90)
