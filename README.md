@@ -6,7 +6,7 @@ Group Members: Rio Geroux, Max Sehroder
 ![Shadow bolt start screen](https://user-images.githubusercontent.com/102073178/168695599-c05c027c-60c5-42a1-8f45-b6aba54a30be.png)
 
 ## Gameplay
-![GamePlay Screen](https://user-images.githubusercontent.com/102073178/163266140-c813ebef-f57f-4427-8d0e-bcab787f8b71.jpg)
+![Shadow Bolt play screen](https://user-images.githubusercontent.com/102073178/168695716-8af3383e-0c8a-4c46-94e7-43a3f26ae8fd.png)
 
 ## End of game
 ![End Screen](https://user-images.githubusercontent.com/102073178/163266171-ccca153e-ecee-4e7d-9e19-eafd8af16833.jpg)
