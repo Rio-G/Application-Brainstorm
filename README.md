@@ -3,7 +3,7 @@ Description of the project: A endless runner game where you have to avoid the op
 Group Members: Rio Geroux, Max Sehroder
 
 ## Start screen
-![Start Screen](https://user-images.githubusercontent.com/102073178/163266024-7beef2be-5dd3-4d07-b44b-3f704043dcf2.jpg)
+![Shadow bolt start screen](https://user-images.githubusercontent.com/102073178/168695599-c05c027c-60c5-42a1-8f45-b6aba54a30be.png)
 
 ## Gameplay
 ![GamePlay Screen](https://user-images.githubusercontent.com/102073178/163266140-c813ebef-f57f-4427-8d0e-bcab787f8b71.jpg)
